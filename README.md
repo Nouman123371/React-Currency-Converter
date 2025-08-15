@@ -9,9 +9,6 @@ A simple currency converter built with **React** and **Tailwind CSS** that fetch
 - Prevents negative input values
 - Beautiful blurred background
 
-## 📸 Screenshot
-![App Screenshot](https://images.pexels.com/photos/33230886/pexels-photo-33230886/free-photo-of-modern-architecture-at-new-york-oculus.jpeg)
-
 ## 🛠️ Installation & Setup
 
 1. Clone the repo
